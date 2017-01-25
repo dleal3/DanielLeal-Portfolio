@@ -1,11 +1,11 @@
 import React from 'react'
-import Header from './Header'
+import { Link } from 'react-router'
 
 export default React.createClass({
   render() {
-    return(
+    return (
       <section>
-
+        <article>RESUME WOULD GO HERE</article>
       </section>
     )
   }
