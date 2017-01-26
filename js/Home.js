@@ -15,7 +15,7 @@ export default React.createClass({
           <p className="homeContent"> satisfaction comes in the form of questions</p>
           <p className="homeContent"> leading to more questions.</p>
           <p className="homeContent"> Why not seek to ask questions that are outside the norm?</p>
-          <p className="homeContent"> Why not? Questions are the key to lifes most interesting doors,   </p>
+          <p className="homeContent"> Why not? Questions are the key to life's most interesting doors,   </p>
           <p className="homeContent"> allow me to open a few for you. </p>
 
 
