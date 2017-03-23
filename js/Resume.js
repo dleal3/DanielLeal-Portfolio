@@ -5,7 +5,7 @@ export default React.createClass({
   render() {
     return (
       <section>
-        <article>RESUME WOULD GO HERE</article>
+        <article><img src="styles/resume.png" alt="" className="blogImage"/></article>
       </section>
     )
   }
